@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(126, 115, 115);
+    color: aqua;
+    
+}
+h1{
+    background: rgb(151, 146, 146);
+    color: red;
+    align-items: center;
+
+}
+div
+{
+    background: rgb(89, 83, 83);
+    color: black;
+}
+form
+{
+    background: black;
+    border-radius: 50px;
+    border-style: groove;
+    border-color: rgb(237, 228, 228);
+    border-width: 20px;
+}
